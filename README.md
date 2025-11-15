@@ -52,23 +52,6 @@
 
 </div>
 
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-[![Civic Reporting Platform](https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Lovevanshi&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2)](https://github.com/YOUR_USERNAME/REPO_NAME)
-
-</div>
-
-**🔹 Civic Reporting Platform**  
-A complaint/request tracking system built with Node.js and MySQL for streamlining citizen-government communication
-
-**🔹 Java Compiler Simulator**  
-Desktop application with GUI for running Java code and displaying output in real-time
-
----
 
 ### 📈 Contribution Graph
 
@@ -93,10 +76,10 @@ Desktop application with GUI for running Java code and displaying output in real
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://www.linkedin.com/in/mayank-lovevanshi-643004376/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-lovevanshi-643004376/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayank-Lovevanshi)
+
+
 
 </div>
 
